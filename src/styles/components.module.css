@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Hachi+Maru+Pop&family=Noto+Sans+JP:wght@400;700;900&family=RocknRoll+One&display=swap');
+/*
+ * CSS rules to specify families
+ * font-family: 'DotGothic16', sans-serif;
+ * font-family: 'Hachi Maru Pop', cursive;
+ * font-family: 'RocknRoll One', sans-serif;
+ * font-family: 'Noto Sans JP', sans-serif;
+ *  - font-weight: 400, 700 and 900 are available
+ */
+
+/*
+ * Colors used on the project
+ * #eceff1 blueGrey[50]
+ * #f44336 red[500]
+ * #263238 blueGrey[900]
+ * #212121 grey[900]
+*/
+
+/*
+ * AppHeader
+ */
+.h-iconButton {
+  margin-right: 15px;
+}
+.h-title {
+  font-weight: 900;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+/*
+ * AppFooter
+ */
+.f-container {
+  padding: 2px 15px;
+  font-size: 10px;
+}
+.f-logo {
+  height: 1em;
+}
+.f-hr {
+  color: #eee;
+}
+
+/*
+ * Icons
+ */
+.social-icon {
+  margin: 3px;
+}
+.icons-wrapper {
+  text-align: center;
+}
